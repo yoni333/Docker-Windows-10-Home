@@ -18,8 +18,7 @@ Docker Install in Windows 10 Home
   EditionID: Core --> Professional
   ProductName: Windows 10 Home --> Windows 10 Pro
   (Not sure “ProductName” it’s necessary, I think only the “EditionID” key is used)
-
-  After installing docker, remember to restore the original keys !!!
+  __*After installing docker, remember to restore the original keys !!!*__
 
   8. Download the Docker Desktop installer [Click Here](https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe)
   9. Install it
