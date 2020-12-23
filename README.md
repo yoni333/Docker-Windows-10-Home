@@ -1,3 +1,5 @@
+
+
 # Docker-Windows-10-Home
 Docker Install in Windows 10 Home
 ## how to install docker on windows home?
@@ -5,6 +7,10 @@ Docker Install in Windows 10 Home
 ### Prerequisite
   * [x] Enable Virtualization in BIOS
   * [x] Active Internet Connection
+### UPDATE DECEMBER 2020 - you can install docker on windows with out hyper-v . see the next links
+  (medium)[https://poweruser.blog/docker-on-windows-10-without-hyper-v-a529897ed1cc]
+  
+  
 ### update may 2020 - the simple solution is simply subscribe to windows insider program and to get the next version of windows home the include out of the box hyper-v and wsl2. 
 
 ### Steps
